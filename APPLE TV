@@ -1,0 +1,205 @@
+<key>CaptiveBypass</key>
+
+
+
+   <false/>
+
+
+
+   <key>DisableAssociationMACRandomization</key>
+
+
+
+   <false/>
+
+
+
+   <key>EncryptionType</key>
+
+
+
+   <string>Any</string>
+
+
+
+   <key>HIDDEN_NETWORK</key>
+
+
+
+   <false/>
+
+
+
+   <key>IsHotspot</key>
+
+
+
+   <false/>
+
+
+
+   <key>Password</key>
+
+
+
+   <string>Joker1129</string>
+
+
+
+   <key>PayloadDescription</key>
+
+
+
+   <string>配置 Wi-Fi 设置</string>
+
+
+
+   <key>PayloadDisplayName</key>
+
+
+
+   <string>Wi-Fi</string>
+
+
+
+   <key>PayloadIdentifier</key>
+
+
+
+   <string>com.apple.wifi.managed.6A7E9224-E17E-40AC-890A-F3679D5E7FDC</string>
+
+
+
+   <key>PayloadType</key>
+
+
+
+   <string>com.apple.wifi.managed</string>
+
+
+
+   <key>PayloadUUID</key>
+
+
+
+   <string>6A7E9224-E17E-40AC-890A-F3679D5E7FDC</string>
+
+
+
+   <key>PayloadVersion</key>
+
+
+
+   <integer>1</integer>
+
+
+
+   <key>ProxyServer</key>
+
+
+
+   <string>192.168.10.186</string>
+
+
+
+   <key>ProxyServerPort</key>
+
+
+
+   <integer>6152</integer>
+
+
+
+   <key>ProxyType</key>
+
+
+
+   <string>Manual</string>
+
+
+
+   <key>SSID_STR</key>
+
+
+
+   <string>UNCHARTEDJK 2.4G/5G</string>
+
+
+
+  </dict>
+
+
+
+ </array>
+
+
+
+ <key>PayloadDescription</key>
+
+
+
+ <string>设置tvOS的代理服务器及MitM证书</string>
+
+
+
+ <key>PayloadDisplayName</key>
+
+
+
+ <string>Proxy &amp; MitM for tvOS</string>
+
+
+
+ <key>PayloadIdentifier</key>
+
+
+
+ <string>DualSubs.Profile</string>
+
+
+
+ <key>PayloadOrganization</key>
+
+
+
+ <string>DualSubs</string>
+
+
+
+ <key>PayloadRemovalDisallowed</key>
+
+
+
+ <false/>
+
+
+
+ <key>PayloadType</key>
+
+
+
+ <string>Configuration</string>
+
+
+
+ <key>PayloadUUID</key>
+
+
+
+ <string>EC05DA41-4A75-4083-B574-C8389C7266FE</string>
+
+
+
+ <key>PayloadVersion</key>
+
+
+
+ <integer>1</integer>
+
+
+
+</dict>
+
+
+
+</plist>
